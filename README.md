@@ -1,7 +1,7 @@
+# First Act Backend
 
-# First act Backend 
-
-[Document](https://docs.google.com/document/d/1htJaxYuQslEEKBTPIyq3E6Nwfg-2oFzkoJMkc7iB_UE/edit)
+- [Installation Document](https://docs.google.com/document/d/1htJaxYuQslEEKBTPIyq3E6Nwfg-2oFzkoJMkc7iB_UE)
+- [Slides](https://docs.google.com/presentation/d/1MVwOdX4DDF9sSsyFkoIGXx_C-dwvIi06bfGACAFVg08)
 
 ## Modules
 
@@ -21,6 +21,6 @@
 
 - Install Node.js version
 - Install Visual Studio Code
-  - download [link](https://code.visualstudio.com/download)
+  - [Download Link](https://code.visualstudio.com/download)
 - Install Insomnia
-  - download [link](https://insomnia.rest/download)
+  - [Download Link](https://insomnia.rest/download)
